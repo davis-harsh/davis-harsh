@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Davis 👋
 
-<!--
-**davis-harsh/davis-harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and DevOps-focused graduate student specializing in cloud deployment, CI/CD automation, and modern software engineering practices. I build pipelines, containerized applications, and cloud-native systems using AWS, GitLab CI/CD, Docker, and Python/C#.
 
-Here are some ideas to get you started:
+### 🔧 DevOps & Cloud Skills
+- AWS (ECS, ECR, IAM, ALB, CloudWatch)
+- GitLab CI/CD, Git, automated testing
+- Docker, containerization, artifact tagging
+- Python microservices, REST APIs
+- C#/.NET applications, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- **AWS CI/CD Pipeline** – Automated build, test, containerization, and deployment to ECS.
+- **Python Microservices** – Distributed architecture with REST APIs and async processing.
+- **.NET MAUI App** – Android CRUD app with SQLite persistence.
+
+### 🎯 Currently Working On
+- Expanding my DevOps portfolio with IaC, monitoring, and advanced CI/CD patterns.
+
+### 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/davis-harsh
