@@ -1,21 +1,23 @@
-# Hi, I'm Davis 👋
+# Hi, I'm Davis
 
-I'm a Software Engineer and DevOps-focused graduate student specializing in cloud deployment, CI/CD automation, and modern software engineering practices. I build pipelines, containerized applications, and cloud-native systems using AWS, GitLab CI/CD, Docker, and Python/C#.
+I recently graduated with my Master of Science in Software Engineering from Western Governors University. I specialize in C# and DevOps, with additional experience across a wide variety of the SWE spectrum. I am actively seeking internships and early career opportunities.
 
-### 🔧 DevOps & Cloud Skills
+### DevOps & Cloud Skills
 - AWS (ECS, ECR, IAM, ALB, CloudWatch)
 - GitLab CI/CD, Git, automated testing
 - Docker, containerization, artifact tagging
 - Python microservices, REST APIs
 - C#/.NET applications, SQLite
 
-### 📌 Featured Projects
+### Featured Projects
+- **davis-harsh.github.io** - Web Portfolio.
 - **AWS CI/CD Pipeline** – Automated build, test, containerization, and deployment to ECS.
 - **Python Microservices** – Distributed architecture with REST APIs and async processing.
 - **.NET MAUI App** – Android CRUD app with SQLite persistence.
 
-### 🎯 Currently Working On
-- Expanding my DevOps portfolio with IaC, monitoring, and advanced CI/CD patterns.
+### Currently Working On
+- Unity projects
+- Finding work
 
-### 📫 Connect with Me
+### Connect with Me
 LinkedIn: https://www.linkedin.com/in/davis-harsh
