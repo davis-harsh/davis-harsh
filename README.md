@@ -11,7 +11,6 @@ I recently graduated with my Master of Science in Software Engineering from West
 
 ### Featured Projects
 - **davis-harsh.github.io** - Web Portfolio.
-- **AWS CI/CD Pipeline** – Automated build, test, containerization, and deployment to ECS.
 - **Python Microservices** – Distributed architecture with REST APIs and async processing.
 - **.NET MAUI App** – Android CRUD app with SQLite persistence.
 
