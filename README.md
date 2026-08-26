@@ -24,5 +24,5 @@ I'm a Software Engineering with a Master of Science from Western Governors Unive
 - Finding work
 
 ### Connect with Me
-LinkedIn: https://www.linkedin.com/in/davis-harsh
-Web Portfolio: https://davis-harsh.github.io/
+- LinkedIn: https://www.linkedin.com/in/davis-harsh
+- Web Portfolio: https://davis-harsh.github.io/
